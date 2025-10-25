@@ -1,0 +1,11 @@
+cat > recipes.json << 'JSON'
+[
+  {
+    "name": "Gutshof Gin & Tonic",
+    "tags": ["classic","frisch"],
+    "ingredients": ["50ml Gutshof Gin Classic", "150ml Tonic", "Limette", "Eis"],
+    "gins": ["Gutshof Gin Classic"],
+    "instructions": "Eis ins Glas, Gin, mit Tonic auffüllen, Limette."
+  }
+]
+JSON
